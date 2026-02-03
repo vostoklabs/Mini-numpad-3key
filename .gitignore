@@ -1,0 +1,14 @@
+3D printing files/
+Media/
+.gemini/
+.agent/
+brain/
+*.uf2
+
+# Ignore all images in pics except the ones used in README
+pics/*.jpg
+!pics/cover.jpg
+!pics/cover with icons in the bg.jpg
+!pics/icons keycaps.jpg
+!pics/photo of the wiring.jpg
+!pics/wiring diagram.jpg
