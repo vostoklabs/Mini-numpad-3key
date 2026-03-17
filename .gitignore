@@ -3,7 +3,7 @@ Media/
 .gemini/
 .agent/
 brain/
-*.uf2
+
 
 # Ignore all images in pics except the ones used in README
 pics/*.jpg
